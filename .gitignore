@@ -49,6 +49,14 @@ coverage.xml
 *.log
 *.pot
 
+#Database stuff
+*.db
+*.sqlite
+
+#Qt
+*.ini
+*.bat
+
 # Sphinx documentation
 docs/_build/
 
